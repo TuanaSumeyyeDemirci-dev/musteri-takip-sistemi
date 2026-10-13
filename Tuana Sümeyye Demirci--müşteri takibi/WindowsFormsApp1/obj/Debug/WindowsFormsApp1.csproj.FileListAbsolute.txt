@@ -1,0 +1,42 @@
+D:\NTPödev\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\NTPödev\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\NTPödev\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\NTPödev\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\NTPödev\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\NTPödev\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\NTPödev\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\NTPödev\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\NTPödev\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\NTPödev\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\NTPödev\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\6070 Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\6070 Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\6070 Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\6070 Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\6070 Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\6070 Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\6070 Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\6070 Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\6070 Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\6070 Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\6070 Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\TUANA\ders notları\nesne tabanlı programlama\Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\TUANA\ders notları\nesne tabanlı programlama\Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\TUANA\ders notları\nesne tabanlı programlama\Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\TUANA\ders notları\nesne tabanlı programlama\Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\TUANA\ders notları\nesne tabanlı programlama\Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\TUANA\ders notları\nesne tabanlı programlama\Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\TUANA\ders notları\nesne tabanlı programlama\Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\TUANA\ders notları\nesne tabanlı programlama\Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\TUANA\ders notları\nesne tabanlı programlama\Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\TUANA\ders notları\nesne tabanlı programlama\Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\smy\Desktop\Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\smy\Desktop\Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\smy\Desktop\Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\smy\Desktop\Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\smy\Desktop\Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\smy\Desktop\Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\smy\Desktop\Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\smy\Desktop\Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\smy\Desktop\Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\smy\Desktop\Tuana Sümeyye Demirci--müşteri takibi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
